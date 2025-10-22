@@ -7,7 +7,8 @@
 - [Check Here for Live Link](https://app.powerbi.com/view?r=eyJrIjoiYWIwYjE4NTQtNzg1OC00YjhiLWI5OTQtNzFhMjA5MmY1Njc0IiwidCI6IjMzMjBmMmVjLTI2ZDMtNGNiOS1hZDkyLThmMjkzNTcyZjQ5ZCJ9)
 -------------------------------------------------------------------------------------------------------------------------------------
 🧠 **Overview**
-The dashboard is divided into two main sections — Dashboard Overview and All Models, enabling users to interactively explore BMW’s sales data across different time periods and markets.
+
+- The dashboard is divided into two main sections — Dashboard Overview and All Models, enabling users to interactively explore BMW’s sales data across different time periods and markets.
 
  **Dashboard Overview**
  ------
@@ -40,7 +41,7 @@ The dashboard is divided into two main sections — Dashboard Overview and All M
 -----------------
 - **Power BI**– Data visualization and dashboard creation
 - **DAX** – Custom measures and performance indicators
- **Power Query** – Data cleaning and transformation
+- **Power Query** – Data cleaning and transformation
 - **Excel/CSV Dataset** – Source data
 
 -----------------------------------
