@@ -1,13 +1,16 @@
 **BMW Sales Insights Dashboard**
+---------------
 - This Power BI dashboard provides an in-depth analysis of BMW’s global sales performance, offering insights into revenue trends, sales quantity, and model performance across countries, regions, and channels.
 -----------------------------------------------------------------------------
 🌐 **View Interactive Dashboard**
-- (Check Here Live Lik)[https://app.powerbi.com/view?r=eyJrIjoiYWIwYjE4NTQtNzg1OC00YjhiLWI5OTQtNzFhMjA5MmY1Njc0IiwidCI6IjMzMjBmMmVjLTI2ZDMtNGNiOS1hZDkyLThmMjkzNTcyZjQ5ZCJ9]
+----
+- [Check Here Live Lik](https://app.powerbi.com/view?r=eyJrIjoiYWIwYjE4NTQtNzg1OC00YjhiLWI5OTQtNzFhMjA5MmY1Njc0IiwidCI6IjMzMjBmMmVjLTI2ZDMtNGNiOS1hZDkyLThmMjkzNTcyZjQ5ZCJ9)
 -------------------------------------------------------------------------------------------------------------------------------------
 🧠 **Overview**
 The dashboard is divided into two main sections — Dashboard Overview and All Models, enabling users to interactively explore BMW’s sales data across different time periods and markets.
 
  **Dashboard Overview**
+ ------
 - This section summarizes BMW’s performance using key indicators and visualizations:
 - **Revenue & Revenue PY by Year** – Compare annual revenue growth with the previous year.
 - **Qty Sold by Country** – Highlights top-performing countries by quantity sold and revenue contribution.
@@ -17,6 +20,7 @@ The dashboard is divided into two main sections — Dashboard Overview and All M
 -------------------------------------------------------------------------------
 
 📊 **Key Metrics Displayed:**
+-------------
 - Total Revenue (e.g., $1.13B in 2023)
 - Growth Rate vs. Previous Year (+24.7%)
 - Total Quantity Sold (e.g., 15K units globally)
@@ -25,6 +29,7 @@ The dashboard is divided into two main sections — Dashboard Overview and All M
 ---------------------------------------------
 
 **All Models:**
+----------
 - This section provides detailed insights into individual BMW models with interactive visuals and metrics:
 - Model-wise sales data with Qty Sold, Revenue, and Trend Indicators.
 - A visual display of each car model (e.g., BMW i8, BMW Z4, BMW 8 Series).
@@ -41,10 +46,11 @@ The dashboard is divided into two main sections — Dashboard Overview and All M
 -----------------------------------
 
 🚀 **How to Use**
-1 Download the file BMW_Sales_Insights.pbix
-2 Open in Power BI Desktop (Free Microsoft tool)
-3 Explore dynamic visuals, slicers, and insights
-4 Filter by year, model, country, or sales channel to customize analysis
+----------------
+1 Download the file BMW_Sales_Insights.pbix <br>
+2 Open in Power BI Desktop (Free Microsoft tool) <br>
+3 Explore dynamic visuals, slicers, and insights <br>
+4 Filter by year, model, country, or sales channel to customize analysis <br>
 
 -----------------------------------------
 
